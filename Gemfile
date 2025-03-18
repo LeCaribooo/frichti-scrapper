@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'dotenv'
+gem 'httparty'
+gem 'nokogiri'
+gem 'rake'
+gem 'rubocop'
+gem 'selenium-webdriver'
+gem 'whenever'
